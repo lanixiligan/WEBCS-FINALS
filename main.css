@@ -247,7 +247,7 @@
     }
 
     .pc-background {
-        background-image: url('images/pcabout.jpg');
+        background-image: url('pcabout.png');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -288,7 +288,7 @@
     }
 
     .cpu-background {
-        background-image: url('images/cpuabout.jpg');
+        background-image: url('cpuabout.png');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
